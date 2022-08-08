@@ -1,5 +1,5 @@
 # Resoft Project
-<daeguAI school first project => clone coding>
+<daeguAI school first project => clone coding><br>
 Period: July 1st to July 15th
 I am a non-major who started studying coding at the late age of 34 and a student who is taking a coding learning program supported by Daegu.
 I studied basic coding extensively from April to June.
