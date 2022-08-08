@@ -22,3 +22,4 @@
 5. icon : Each element slides in a cascade and When the screen becomes smaller, the More button becomes active<br/>
 6. map : Get the Kakao Map and apply it<br/>
 7. footer : Apply the image diagonally<br/>
+8. the result : https://devil66v.github.io/ResoftProject/
