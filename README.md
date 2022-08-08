@@ -14,6 +14,7 @@
 
 ### 1. This project is the result of cloning with team members.
 ### 2. Applied effect
+-The animation uses wow.js<br/>
 1. header : slide in left, right, Using the Top Button<br/>
 2. card-flip : be overturned<br/>
 3. card-slide : Slide when hover<br/>
